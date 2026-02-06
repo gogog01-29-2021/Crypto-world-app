@@ -2,6 +2,15 @@
 1. connects a uer's wallet
 2. verifies they are a unique haman with World ID
 3. 
+
+system Architecture Diagram
+```
+
+
+
+```
+
+
 > **2026 IT x Healthcare Convergence Hackathon**  
 > **Theme:** Healthcare Product Development in the Era of IT and AI Transition  
 > **Date:** January 31 - February 1, 2026
