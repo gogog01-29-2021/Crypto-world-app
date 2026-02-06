@@ -1,7 +1,7 @@
 # 🏥 Hcrypto- Fullstack SaaS Base Project
 1. connects a uer's wallet
 2. verifies they are a unique haman with World ID
-3. token based verification->voting, 
+3. token based verification->voting, : Which block chain/Polygon to use?
 
 system Architecture Diagram
 ```
